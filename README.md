@@ -16,3 +16,8 @@ npm install epress --save //
 o express é um framework que serve 
 
 * ROTAS 
+* PARAMETROS
+* NODEMON
+npm install nodemon -g //instala o nodemon globalmente na tua maquina 
+npm install nodemon // instala o nodemon somente na pasta em questao
+o nodemon é modulo do node que serve pra reiniar o teu sevidor a cada alteracao salva  
