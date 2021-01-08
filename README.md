@@ -20,4 +20,7 @@ o express é um framework que serve
 * NODEMON
 npm install nodemon -g //instala o nodemon globalmente na tua maquina 
 npm install nodemon // instala o nodemon somente na pasta em questao
-o nodemon é modulo do node que serve pra reiniar o teu sevidor a cada alteracao salva  
+o nodemon é modulo do node que serve pra reiniar o teu sevidor a cada alteracao salva 
+* sequelize é um ORM serve para criar bd mysql, sqlite ...pelo node
+npm install --save sequelize 
+npm install --save mysql2 //para usar bd mysql
