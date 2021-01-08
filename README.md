@@ -24,3 +24,9 @@ o nodemon é modulo do node que serve pra reiniar o teu sevidor a cada alteracao
 * sequelize é um ORM serve para criar bd mysql, sqlite ...pelo node
 npm install --save sequelize 
 npm install --save mysql2 //para usar bd mysql
+
+const sequelize = new Sequelize('nome do DB', 'usuario', 'palavra passe do sevidor', {
+    host: "localhost", //o sitio onde espedado(no meu pc ) 
+    dialect: "mysql" //o tipo de DB 
+})
+
