@@ -43,10 +43,12 @@ sequelize é um ORM serve para criar bd mysql, sqlite ...pelo node <br>
 
 ```npm install --save mysql2``` para usar bd mysql
 
+👨‍💻
 const sequelize = new Sequelize('nome do DB', 'usuario', 'palavra passe do sevidor', {
     host: "localhost", //o sitio onde espedado(no meu pc ) 
-    dialect: "mysql" //o tipo de DB 
+    dialect: "mysql" //o tipo de DB
 })
+
 # HANDLEBARS 
 
 ```npm install --save express-handlebars``` uma versao especifica do handlebars para o express 
