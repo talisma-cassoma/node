@@ -29,4 +29,7 @@ const sequelize = new Sequelize('nome do DB', 'usuario', 'palavra passe do sevid
     host: "localhost", //o sitio onde espedado(no meu pc ) 
     dialect: "mysql" //o tipo de DB 
 })
+* handlebars 
+
+npm install --save express-handlebars //uma versao especifica do handlebars
 
