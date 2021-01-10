@@ -30,9 +30,9 @@ C'est de fait le framework standard pour le développement de serveur en Node.js
    
 # NODEMON
 
-```npm install nodemon -g ```instala o nodemon globalmente na tua maquina
+```npm install nodemon -g``` instala o nodemon globalmente na tua maquina
  
-```npm install nodemon ``` instala o nodemon somente na pasta em questao 
+```npm install nodemon``` instala o nodemon somente na pasta em questao 
 
 o nodemon é modulo do node que serve pra reiniar o teu sevidor a cada alteracao salva <br>
 
