@@ -1,6 +1,51 @@
 # node
- 
- transformando variaveis em modulos<br>
+* como usar uma funcçao que está num outro documento?🤔
+
+usando módulos:
+
+ficheiro soma.js
+  ``` var somar = function (a,b){
+    return a+b
+    }
+    module.exports = somar // expeortando a nossa variavel soma transformando a em um modulo 
+  ````
+ficheiro subtracao.js
+  ```
+  var subtrair = function (a,b){
+    return a-b
+    }
+    module.exports = subtrair
+  ```
+ficheiro divisao.js 
+  ```
+  var dividir = function (a,b){
+    return a/b
+    }
+    module.exports = dividir
+ ```
+ficheiro multiplicacao.js
+  ```
+   var multplicar = function (a,b){
+    return a*b
+}
+module.exports = multplicar
+  ```
+ficheiro calc.js 
+  ```` 
+ //vou carregar os modulos aqui 
+
+ var somaFunc = require("./soma") //pegando o modulo do arquivo soma.js 
+ var multFunc = require("./multiplicacao")
+ var divFunc = require("../divisao")
+ var subFunc = require("./subtracao")
+
+ console.log(somaFunc(1,12))
+ console.log(multFunc(20,2))
+ console.log(subFunc(20,2))
+ console.log(divFunc(20,2))
+ ````
+
+* transformando variaveis em modulos<br>
  exportando modluoss<br> 
  requisitando os modulos em outro ficheiro<br>
 * protocolo HTTP**
