@@ -1,6 +1,6 @@
 # backend com node
 
-# entendendo os MODULOS em js🤔 
+# MODULOS em js🤔 
  
    transformando variaveis em modulos podemos reaproveitar o codigo requisitando os modulos em outro ficheiro<br>
    exemplo da calculadora
@@ -27,7 +27,7 @@
            console.log('servidor rodando mano')//verifficando```
 
 
- <h2>EXPRESS</h2>
+ # EXPRESS
       
       npm install epress --save 
       
