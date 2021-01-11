@@ -22,13 +22,12 @@
   
   <h2>protocolo HTTP</h2>
 👨‍💻 criando um servidor http com node<br>
-```
-var http = require('http') // requitamos o modulo http que ja vem par default no node
+           ```var http = require('http') // requitamos o modulo http que ja vem par default no node
+           http.createServer().listen(8081) // abrir um servidor e colocar na porta 
+           console.log('servidor rodando mano')//verifficando```
 
-http.createServer().listen(8081) // abrir um servidor e colocar na porta 
-console.log('servidor rodando mano')//verifficando
-```
- # EXPRESS
+
+ <h2>EXPRESS</h2>
       
       npm install epress --save 
       
