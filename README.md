@@ -63,7 +63,9 @@ const sequelize = new Sequelize('nome do DB', 'usuario', 'palavra passe do sevid
     dialect: "mysql" //o tipo de DB
 })
 
-# HANDLEBARS 
+# HANDLEBARS ✨ 
+
+(power to html)🥸
 
 ```npm install --save express-handlebars``` uma versao especifica do handlebars para o express 
 o handlebars serve para tornar a paginas html dinamicas
