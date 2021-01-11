@@ -63,6 +63,8 @@ const sequelize = new Sequelize('nome do DB', 'usuario', 'palavra passe do sevid
     dialect: "mysql" //o tipo de DB
 })
 
+<h3>JSON</h3>
+
 # HANDLEBARS ✨ 
 
 (power to html)🥸
