@@ -1,11 +1,26 @@
 # backend com node
 
-* entendendo os MODULOS em js🤔 
+# entendendo os MODULOS em js🤔 
  
- transformando variaveis em modulos podemos reaproveitar o codigo requisitando os modulos em outro ficheiro<br>
- exemplo da calculadora
+   transformando variaveis em modulos podemos reaproveitar o codigo requisitando os modulos em outro ficheiro<br>
+   exemplo da calculadora
+  <h2>Modulos nativos do node</h2>
+    
+   * os, 
+    
+   * fs, 
+    
+   * path, 
+    
+   * url, 
+    
+   * events, 
+    
+   * http
+ 
 
-# protocolo HTTP
+  
+  <h2>protocolo HTTP</h2>
 👨‍💻 criando um servidor http com node<br>
 ```
 var http = require('http') // requitamos o modulo http que ja vem par default no node
