@@ -16,7 +16,7 @@
     
    * events, 
     
-   * http
+   * http 📡
     <h3>protocolo HTTP</h3>
     👨‍💻 criando um servidor http com node<br>
            ```var http = require('http') // requitamos o modulo http que ja vem par default no node
@@ -31,15 +31,16 @@
 o express é um framework que serve para criar applicacoes web baseadas no Node.js2. 
 C'est de fait le framework standard pour le développement de serveur en Node.js
 
-   * ROTAS
-   
-   construindo rotas com express 
+   * <h2>construindo rotas com express </h2>
+    
 
    * PARAMETROS
    
    ao construir rotas podemos adicionar varias as aos diretorios
    
-# NODEMON
+# NODEMON 🔁
+   
+   para reactivar o sevidor a cada mudança feita no projecto
 
 ```npm install nodemon -g``` instala o nodemon globalmente na tua maquina
  
@@ -47,7 +48,7 @@ C'est de fait le framework standard pour le développement de serveur en Node.js
 
 o nodemon é modulo do node que serve pra reiniar o teu sevidor a cada alteracao salva <br>
 
-# SEQUELIZE 
+# SEQUELIZE 🎲
 sequelize é um ORM serve para criar bd mysql, sqlite ...pelo node <br>
 
 ```npm install --save sequelize```
