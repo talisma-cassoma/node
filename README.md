@@ -65,4 +65,4 @@ const sequelize = new Sequelize('nome do DB', 'usuario', 'palavra passe do sevid
 
 ```npm install --save express-handlebars``` uma versao especifica do handlebars para o express 
 o handlebars serve para tornar a paginas html dinamicas
-
+* <h2>construindo rotas com express usando ficheuros dinámicos handlebars </h2>
