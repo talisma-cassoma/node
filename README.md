@@ -17,11 +17,8 @@
    * events, 
     
    * http
- 
-
-  
-  <h2>protocolo HTTP</h2>
-👨‍💻 criando um servidor http com node<br>
+    <h3>protocolo HTTP</h3>
+    👨‍💻 criando um servidor http com node<br>
            ```var http = require('http') // requitamos o modulo http que ja vem par default no node
            http.createServer().listen(8081) // abrir um servidor e colocar na porta 
            console.log('servidor rodando mano')//verifficando```
