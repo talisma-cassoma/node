@@ -42,13 +42,13 @@ C'est de fait le framework standard pour le développement de serveur en Node.js
    
 # NODEMON 🔁
    
-   para reactivar o sevidor a cada mudança feita no projecto
+   o nodemon é modulo do node que serve pra reinciar automaticamente o teu servidor a cada alteracao feita no projecto
 
 ```npm install nodemon -g``` instala o nodemon globalmente na tua maquina
  
 ```npm install nodemon``` instala o nodemon somente na pasta em questao 
 
-o nodemon é modulo do node que serve pra reiniar o teu sevidor a cada alteracao salva <br>
+ salva <br>
 
 # SEQUELIZE 🎲
 sequelize é um ORM serve para criar bd mysql, sqlite ...pelo node <br>
