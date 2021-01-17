@@ -19,11 +19,11 @@
    * http 📡
     <h3>protocolo HTTP</h3>
     👨‍💻 criando um servidor http com node<br>
-           ```js
+     ```js
            var http = require('http') // requitamos o modulo http que ja vem par default no node
            http.createServer().listen(8081) // abrir um servidor e colocar na porta 
            console.log('servidor rodando mano')//verifficando
-           ```
+     ```
 
 
  # EXPRESS 🛒
@@ -46,7 +46,7 @@ C'est de fait le framework standard pour le développement de serveur en Node.js
    
    o nodemon é modulo do node que serve pra reinciar automaticamente o teu servidor a cada alteracao feita no projecto
 
-```npm install nodemon -g``` instala o nodemon globalmente na tua maquina
+``` npm install nodemon -g``` instala o nodemon globalmente na tua maquina
  
 ```npm install nodemon``` instala o nodemon somente na pasta em questao 
 
