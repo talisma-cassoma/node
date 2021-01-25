@@ -32,9 +32,8 @@
       
       npm install epress --save 
       
-o express é um framework que serve para criar aplicaçōes web baseadas no Node.js.<br> 
-C'est de fait le framework standard pour le développement de serveur en Node.js
-
+o express é um framework que serve para criar aplicaçōes web baseadas no Node.js.<br>
+::entre elas criar servidores web 
    * <h2>construindo rotas com express </h2>
     
 
