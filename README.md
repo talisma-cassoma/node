@@ -52,13 +52,13 @@ o express é um framework que serve para criar aplicaçōes web baseadas no Node
  salva <br>
 
 # SEQUELIZE 🎲
-sequelize é um ORM serve para criar bd mysql, sqlite ...pelo node <br>
+* <h2>sequelize</h2> é um ORM serve para criar bd mysql, sqlite ...pelo node <br>
 
 ```npm install --save sequelize```
 
 ```npm install --save mysql2``` para usar bd mysql
 
-## criando um servidor com express
+* ## criando um servidor com express
 ```js
 const express = require("express")
 
@@ -74,7 +74,7 @@ express.listen(8080, function(){
 
 ## vs 
 
-## Criar um servidor com modulo nativo http 
+* ## Criando um servidor com modulo nativo http 
 ```js
 const htpp = require('http')// modulo criar sevidor
 const fs = require('fs')
@@ -90,7 +90,7 @@ htpp.createServer((req, res)=>{
     } 
 }).listen(8080,()=>{ console.log('servidor rodando! vamos fazer nosso app')})
 ```
-## ligando o node com o banco 
+* ## ligando o node com o banco 
 
 👨‍💻
 
