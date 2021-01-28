@@ -19,7 +19,7 @@ const Postagem = sequelize.define('postagens', {
     }
 })
 
-//Postagem.sync({force: true});//para for√ßar a criar caso ou rectiar a tabela ...
+//Postagem.sync({force: true});//para forçar a criar o banco de dados caso nao tenha ainda criado ou recriar o banco de dados 
 ```
 * ## inserindo dados no banco de dados
 ```js 
@@ -27,5 +27,6 @@ Postagem.create({
     titulo : 'meu de perfil',
     conteudo: 'leu dia foi assim'
 })
+//Postagem.sync({force: true});//para forçar a criar, caso nao tenha ainda criado ou recriar a tabela
 ```
 
