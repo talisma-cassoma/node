@@ -3,7 +3,7 @@
 # <a href="https://github.com/talisma-cassoma/node/tree/main/node%20modules">MODULOS em js🤔</a> 
  
    transformando variaveis em modulos podemos reaproveitar o codigo requisitando os modulos em outro ficheiro<br>
-   exemplo da <a href="https://github.com/talisma-cassoma/node/tree/main/node%20modules/calc.js">calculadora</a>
+   exemplo da <a href="https://github.com/talisma-cassoma/node/tree/main/node%20modules/calculadora%20">calculadora</a>
  
  # <a href="https://github.com/talisma-cassoma/node/blob/main/express">EXPRESS 🛒</a>
  
