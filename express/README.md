@@ -34,6 +34,6 @@ htpp.createServer((req, res)=>{
     
 
    * <a href="https://github.com/talisma-cassoma/node/blob/main/express/routes.js">Rotas e parametros</a> 
-   
-   ao construir rotas podemos adicionar varias as aos diretorios
+   * 
+  
    
