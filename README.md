@@ -31,17 +31,6 @@ o express é um framework que serve para criar aplicaçōes web baseadas no Node
 
 ```npm install --save mysql2``` para usar bd mysql
 
-* ## ligando o node com o banco 
-
-👨‍💻
-
-```js
-const sequelize = new Sequelize('nome do DB', 'usuario', 'palavra passe do sevidor', {
-    host: "localhost", //o sitio onde espedado(no meu pc ) 
-    dialect: "mysql" //o tipo de DB
-})
-```
-
 <h3>JSON</h3>
 
 # <a href="https://github.com/talisma-cassoma/node/tree/main/handlebars%20">HANDLEBARS</a> ✨ 
