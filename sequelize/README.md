@@ -19,7 +19,8 @@ const Postagem = sequelize.define('postagens', {
     }
 })
 
-//Postagem.sync({force: true});//para forçar a criar o banco de dados caso nao tenha ainda criado ou recriar o banco de dados 
+//Postagem.sync({force: true});//para forçar a criar o banco de dados 
+//caso nao tenha ainda criado ou recriar o banco de dados 
 ```
 * ## inserindo dados no banco de dados
 ```js 
