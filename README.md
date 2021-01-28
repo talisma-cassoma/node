@@ -1,9 +1,9 @@
 # backend com node
 
-# MODULOS em js🤔 
+# <a href="https://github.com/talisma-cassoma/node/blob/main/express/express.md">MODULOS em js🤔</a> 
  
    transformando variaveis em modulos podemos reaproveitar o codigo requisitando os modulos em outro ficheiro<br>
-   exemplo da <a href="">calculadora</a>
+   exemplo da <a href="https://github.com/talisma-cassoma/node/blob/main/express">calculadora</a>
  
  # EXPRESS 🛒
  
