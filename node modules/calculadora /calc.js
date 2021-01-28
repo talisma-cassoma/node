@@ -2,7 +2,7 @@
 
 var somaFunc = require("./soma") //pegando o modulo do arquivo soma.js 
 var multFunc = require("./multiplicacao")
-var divFunc = require("../divisao")
+var divFunc = require("./divisao")
 var subFunc = require("./subtracao")
 
 console.log(somaFunc(1,12))
