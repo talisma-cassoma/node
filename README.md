@@ -1,11 +1,11 @@
 # backend com node
 
-# <a href="https://github.com/talisma-cassoma/node/tree/main/node%20modules">MODULOS em js🤔</a> 
+# <a href="https://github.com/talisma-cassoma/node/tree/main/node%20modules">MODULOS em js</a>🤔 
  
    transformando variaveis em modulos podemos reaproveitar o codigo requisitando os modulos em outro ficheiro<br>
    exemplo da <a href="https://github.com/talisma-cassoma/node/tree/main/node%20modules/calculadora%20">calculadora</a>
  
- # <a href="https://github.com/talisma-cassoma/node/blob/main/express">EXPRESS 🛒</a>
+ # <a href="https://github.com/talisma-cassoma/node/blob/main/express">EXPRESS</a> 🛒
  
  (servidor)
       
@@ -24,7 +24,7 @@ o express é um framework que serve para criar aplicaçōes web baseadas no Node
 
  salva <br>
 
-# SEQUELIZE 🎲
+# <a href="https://github.com/talisma-cassoma/node/tree/main/sequelize">SEQUELIZE</a> 🎲
 * <h2>sequelize</h2> é um ORM serve para criar bd mysql, sqlite ...pelo node <br>
 
 ```npm install --save sequelize```
@@ -44,7 +44,7 @@ const sequelize = new Sequelize('nome do DB', 'usuario', 'palavra passe do sevid
 
 <h3>JSON</h3>
 
-# HANDLEBARS ✨ 
+# <a href="https://github.com/talisma-cassoma/node/tree/main/handlebars%20">HANDLEBARS</a> ✨ 
 
 (power to html)🥸
 
