@@ -9,7 +9,7 @@
  
  (servidor)
       
-      npm install epress --save 
+      npm install express --save 
       
 o express é um framework que serve para criar aplicaçōes web baseadas no Node.js.<br>
 :: entre elas criar servidores web 
