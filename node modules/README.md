@@ -20,6 +20,8 @@
       é usado para analisar o URL e suas outras propriedades.
    
    * <a href="https://www.w3schools.com/nodejs/nodejs_events.asp">events</a> : 
+   
+      toda açao no computador é um evento. Esse modulo é um eventListener
     
    * <a href="https://www.w3schools.com/nodejs/nodejs_http.asp">http</a> 📡
     <h3>protocolo HTTP</h3>
