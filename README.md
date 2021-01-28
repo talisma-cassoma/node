@@ -14,6 +14,8 @@
 o express é um framework que serve para criar aplicaçōes web baseadas no Node.js.<br>
 :: entre elas criar servidores web 
 
+* <h3><a href="https://github.com/talisma-cassoma/node/blob/main/express/routes.js">rotas com express</a></h3>
+
 # NODEMON 🔁
    
    o nodemon é modulo do node que serve pra reinciar automaticamente o teu servidor a cada alteracao feita no projecto
