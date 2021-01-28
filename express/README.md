@@ -30,7 +30,7 @@ htpp.createServer((req, res)=>{
     } 
 }).listen(8080,()=>{ console.log('servidor rodando! vamos fazer nosso app')})
 ```
-
+**conclusao:** o express ajuda a tornar o teu codigo mais curto, e de certa forma ajuda construir um app mais seguro  
     
 
    * <a href="https://github.com/talisma-cassoma/node/blob/main/express/routes.js">Rotas e parametros</a> 
