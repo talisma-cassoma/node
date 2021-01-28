@@ -10,13 +10,14 @@
    
    * <a href="https://www.w3schools.com/nodejs/nodejs_filesystem.asp">fs</a> :
    
-   O módulo fs permite interagir com os ficheiros do sistema, escrever, criar Etc.... 
+   O módulo fs permite interagir com os ficheiros do sistema, escrever, criar ficheiros Etc.... 
     
    * <a href="">path</a> :
    
    O módulo path fornece a possibilidade de mexer com as rotas e diretório de arquivo 
    
    * <a href="https://www.w3schools.com/nodejs/nodejs_url.asp">url</a> : 
+   
       é usado para analisar o URL e suas outras propriedades.
    
    * <a href="https://www.w3schools.com/nodejs/nodejs_events.asp">events</a> : 
