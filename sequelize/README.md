@@ -8,7 +8,7 @@ const sequelize = new Sequelize('nome do DB', 'usuario', 'palavra passe do sevid
     dialect: "mysql" //o tipo de DB
 })
 ```
-* ## criando uma banco de daodos 
+* ## criando uma banco de dados 
 ```js
 const Postagem = sequelize.define('postagens', {
     titulo: {
