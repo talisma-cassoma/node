@@ -4,7 +4,7 @@
    exemplo da calculadora
   <h2>Modulos nativos do node</h2>
     
-   * <a href="">os</a> :
+   * <a href="https://www.w3schools.com/nodejs/ref_os.asp">os</a> :
    
    O módulo 'os' fornece métodos e propriedades de utilitários relacionados ao sistema operacional.
    
@@ -12,7 +12,7 @@
    
    O módulo fs permite interagir com os ficheiros do sistema, escrever, criar ficheiros Etc.... 
     
-   * <a href="">path</a> :
+   * <a href="https://www.w3schools.com/nodejs/ref_path.asp">path</a> :
    
    O módulo path fornece a possibilidade de mexer com as rotas e diretório de arquivo 
    
